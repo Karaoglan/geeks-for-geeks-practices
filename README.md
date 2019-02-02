@@ -1,2 +1,2 @@
 # geeks-for-geeks-practices
-practis for software eng.
+practices for software eng.
